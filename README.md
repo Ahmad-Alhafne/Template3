@@ -1,4 +1,4 @@
-## HTML And CSS Template 3
+# Elzero HTML & CSS Template
 
 Demo
 
